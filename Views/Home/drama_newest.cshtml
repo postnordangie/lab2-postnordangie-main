@@ -1,0 +1,35 @@
+@{
+    ViewData["Title"] = "Drama";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Genre: Drama</h1>
+</div>
+
+<h5>Movies with the genre drama, sort by newest</h5>
+
+<div>
+    @{
+        var movies = Movie
+            .GetAllMovies()
+            .OrderByDescending(x => x.ReleaseYear);
+        
+        var count = 0;
+
+        foreach (var item in movies)
+        {
+            if (item.Genre.Contains("Drama"))
+            {
+                <li>
+                    <a href="/Home/this_movie/@(item.Id)">@item.Title</a> 
+                    @item.ReleaseYear<br>
+                </li>
+
+                count++;
+            }
+        }
+    }
+
+    <br><p>Number of movies in this list: @count</p>
+
+</div>

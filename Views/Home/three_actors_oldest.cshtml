@@ -1,0 +1,34 @@
+@{
+    ViewData["Title"] = "Three actors";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Movies with 3 actors</h1>
+</div>
+
+<h5>Movies with at least three actors, sort by oldest movies</h5>
+
+<div>
+    @{
+        var movies = Movie
+            .GetAllMovies()
+            .OrderBy(x => x.ReleaseYear);
+        
+        var count = 0;
+
+        foreach (var item in movies)
+        {
+            if (item.ActorList.Count() == 3)
+            {
+                <li>
+                    <a href="/Home/this_movie/@(item.Id)">@item.Title</a> 
+                    @item.ReleaseYear<br>
+                </li>
+
+                count++;
+            }
+        }
+    }
+
+    <br><p>Number of movies in this list: @count</p> 
+</div>

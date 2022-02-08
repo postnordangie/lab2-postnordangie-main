@@ -1,0 +1,183 @@
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/appsettings.Development.json
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/appsettings.json
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/Data/Actors.json
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/Data/Movies.json
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/MovieLab.deps.json
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/MovieLab.runtimeconfig.json
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/MovieLab.runtimeconfig.dev.json
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/MovieLab.dll
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/ref/MovieLab.dll
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/MovieLab.pdb
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/MovieLab.Views.dll
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/MovieLab.Views.pdb
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.csproj.AssemblyReference.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.AssemblyInfoInputs.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.AssemblyInfo.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.csproj.CoreCompileInputs.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.MvcApplicationPartsAssemblyInfo.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.RazorAssemblyInfo.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.RazorAssemblyInfo.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/staticwebassets/MovieLab.StaticWebAssets.Manifest.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/staticwebassets/MovieLab.StaticWebAssets.xml
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/scopedcss/bundle/MovieLab.styles.css
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.TagHelpers.input.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.TagHelpers.output.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.RazorCoreGenerate.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.RazorTargetAssemblyInfo.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.RazorTargetAssemblyInfo.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.Views.pdb
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.dll
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/ref/MovieLab.dll
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.pdb
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.genruntimeconfig.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.csproj.CopyComplete
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\bin\Debug\net5.0\appsettings.json
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\bin\Debug\net5.0\Data\Actors.json
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\bin\Debug\net5.0\Data\Movies.json
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.exe
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.deps.json
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.runtimeconfig.json
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.runtimeconfig.dev.json
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.dll
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\bin\Debug\net5.0\ref\MovieLab.dll
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.pdb
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.Views.dll
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.Views.pdb
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.csproj.AssemblyReference.cache
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.AssemblyInfoInputs.cache
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.AssemblyInfo.cs
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.csproj.CoreCompileInputs.cache
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.RazorAssemblyInfo.cache
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.RazorAssemblyInfo.cs
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\staticwebassets\MovieLab.StaticWebAssets.Manifest.cache
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\staticwebassets\MovieLab.StaticWebAssets.xml
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\scopedcss\bundle\MovieLab.styles.css
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.TagHelpers.input.cache
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.TagHelpers.output.cache
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.RazorCoreGenerate.cache
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.RazorTargetAssemblyInfo.cache
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.RazorTargetAssemblyInfo.cs
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.Views.pdb
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.dll
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\ref\MovieLab.dll
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.pdb
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.genruntimeconfig.cache
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.csproj.CopyComplete
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\before_2000_newest.cshtml.g.cs
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\drama_newest.cshtml.g.cs
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\Robin_Williams_alphabetical.cshtml.g.cs
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\three_actors_oldest.cshtml.g.cs
+C:\Users\yean19yx\Documents\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\this_movie.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\bin\Debug\net5.0\appsettings.json
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\bin\Debug\net5.0\Data\Actors.json
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\bin\Debug\net5.0\Data\Movies.json
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.exe
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.deps.json
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.runtimeconfig.json
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.runtimeconfig.dev.json
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.dll
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\bin\Debug\net5.0\ref\MovieLab.dll
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.pdb
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.Views.dll
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.Views.pdb
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.csproj.AssemblyReference.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.AssemblyInfoInputs.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.AssemblyInfo.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.csproj.CoreCompileInputs.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.RazorAssemblyInfo.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.RazorAssemblyInfo.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\staticwebassets\MovieLab.StaticWebAssets.Manifest.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\staticwebassets\MovieLab.StaticWebAssets.xml
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\scopedcss\bundle\MovieLab.styles.css
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.TagHelpers.input.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.TagHelpers.output.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.RazorCoreGenerate.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\before_2000_newest.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\drama_newest.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\Robin_Williams_alphabetical.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\this_movie.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\three_actors_oldest.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.RazorTargetAssemblyInfo.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.RazorTargetAssemblyInfo.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.Views.pdb
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.dll
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\ref\MovieLab.dll
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.pdb
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.genruntimeconfig.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.csproj.CopyComplete
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\bin\Debug\net5.0\appsettings.json
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\bin\Debug\net5.0\Data\Actors.json
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\bin\Debug\net5.0\Data\Movies.json
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.exe
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.deps.json
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.runtimeconfig.json
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.runtimeconfig.dev.json
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.dll
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\bin\Debug\net5.0\ref\MovieLab.dll
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.pdb
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.Views.dll
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\bin\Debug\net5.0\MovieLab.Views.pdb
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.csproj.AssemblyReference.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.AssemblyInfoInputs.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.AssemblyInfo.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.csproj.CoreCompileInputs.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.RazorAssemblyInfo.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.RazorAssemblyInfo.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\staticwebassets\MovieLab.StaticWebAssets.Manifest.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\staticwebassets\MovieLab.StaticWebAssets.xml
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\scopedcss\bundle\MovieLab.styles.css
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.TagHelpers.input.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.TagHelpers.output.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.RazorCoreGenerate.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\before_2000_newest.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\drama_newest.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\Robin_Williams_alphabetical.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\this_movie.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\three_actors_oldest.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.RazorTargetAssemblyInfo.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.RazorTargetAssemblyInfo.cs
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.Views.pdb
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.dll
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\ref\MovieLab.dll
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.pdb
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.genruntimeconfig.cache
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\MovieLab.csproj.CopyComplete
+C:\Users\Angel\OneDrive\Dokument\Applied Web Architecture\Labs\Labb 2\lab2-postnordangie-main\obj\Debug\net5.0\Razor\Views\Home\this_actor_movies.cshtml.g.cs

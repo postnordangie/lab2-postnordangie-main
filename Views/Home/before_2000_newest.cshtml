@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "Movies before 2000";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Movies before 2000</h1>
+</div>
+
+<h5>Movies released before 2000, sort by newest</h5>
+
+<div>
+    @{
+        var movies = Movie
+            .GetAllMovies()
+            .OrderByDescending(x => x.ReleaseYear);
+
+        var count = 0;
+
+        foreach (var item in movies)
+        {
+            if (item.ReleaseYear < 2000)
+            {
+                <li>
+                    <a href="/Home/this_movie/@(item.Id)">@item.Title</a> 
+                    @item.ReleaseYear<br>
+                </li>
+            
+                count++;
+            }
+
+        }
+    }
+
+    <br><p>Number of movies in this list: @count</p> 
+
+</div>
