@@ -4,11 +4,7 @@
 
 <div class="text-center">
     <h1 class="display-4">Genre: Drama</h1>
-</div>
 
-<h5>Movies with the genre drama, sort by newest</h5>
-
-<div>
     @{
         var movies = Movie
             .GetAllMovies()
@@ -16,20 +12,26 @@
         
         var count = 0;
 
+        foreach (var movie in movies)
+        {
+            if (movie.ReleaseYear < 2000)
+            {
+                count++;     
+            }
+        }
+
+        <br><p>Number of movies in this list: @count</p>
+
         foreach (var item in movies)
         {
             if (item.Genre.Contains("Drama"))
             {
-                <li>
+                <ul>
                     <a href="/Home/this_movie/@(item.Id)">@item.Title</a> 
                     @item.ReleaseYear<br>
-                </li>
-
-                count++;
+                </ul>
             }
         }
     }
-
-    <br><p>Number of movies in this list: @count</p>
 
 </div>

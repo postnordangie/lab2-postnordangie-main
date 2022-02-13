@@ -5,10 +5,11 @@
 }
 
 <div class="text-center">
-    <h1>About the actor</h1>
+    <h1>About @Model.FirstName</h1>
 
-        @Model.FirstName @Model.LastName <br>
-        @Model.BirthYear <br>
+        <strong>Name: </strong>@Model.FirstName @Model.LastName <br>
+        <strong>Birthyear: </strong>@Model.BirthYear <br>
+        <strong>Movielist</strong> <br>
 
         @foreach (var movie in Model.Movies)
         {
